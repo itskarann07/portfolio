@@ -1,0 +1,91 @@
+{
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "More Projects",
+  "Header.Item5": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "CV_Karan.pdf",
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I have <span class='underline'>1.5+ years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span>.",
+  "Banner.ActionBtn": "Get in touch",
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "In my <span class='underline'>4 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>Laravel and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+    "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+    "Some of the technologies that I have trained and worked on include (but are not limited to):"
+  ],
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Project",
+      "Title": "Frontend developer",
+      "Date": "March 2022 - Present",
+      "Description": [
+        "Creation and maintenance of a monitoring platform with graphics in WordPress.",
+        "Functional programming in templates and plugins to add the necessary monitoring features.",
+        "Implementation of continuous integration and daily backups.",
+        "Creation and maintenance of a second Monitoring Platform Done in Angular, Mysql, RxJS and user management and configuration of general parameters.",
+        "Planning meetings in reports."
+      ]
+    }
+  ],
+  "FeatureProjects.Title": "My projects",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Portfolio Website",
+      "Description": "Designed and developed a portfolio website using <span class='underline'>Angular 13</span>, showcasing a curated collection of projects and accomplishments. Leveraged Angular's powerful features to create a user-friendly and responsive platform that demonstrates technical skills, creativity, and a strong commitment to professionalism",
+      "demoLink": "https://cafeweb.z13.web.core.windows.net/home",
+      "date": "(Jan 2024 - Jan 2024)",
+      "imgs": [
+        "assets/images/portfolio/portfolio1.png",
+        "assets/images/portfolio/portfolio2.png",
+        "assets/images/portfolio/portfolio3.png"
+      ],
+      "Technologies": [
+        "Angular",
+        "SCSS",
+        "Azure"
+      ]
+    },
+    {
+      "Title": "CRM (Candidate Relationship Management)",
+      "Description": "Significantly contributed to the development of an <span class='underline'>in-house webapp</span> for <span class='underline'>TankhaPay</span>, a product of <span class='underline'>Akal Infosys</span>, which successfully secured funding of <span class='underline'>2.7 million</span> from Japanese investors. The platform efficiently manages employer and employee profiles, catering to a diverse workforce, including gig workers, blue-collar, and white-collar employees, streamlining the registration process and enhancing workforce management",
+      "demoLink": "https://theprint.in/ani-press-releases/tankhapay-developed-by-akal-information-systems-ltd-gets-2-7-million-usd-funding-from-japanese-investors/1638984/",
+      "date": "Aug 2022 - Present",
+      "imgs": [
+        "assets/images/crm-imgs/crm0.png",
+        "assets/images/crm-imgs/crm01.png",
+        "assets/images/crm-imgs/crm02.png",
+        "assets/images/crm-imgs/crm03.png",
+        "assets/images/crm-imgs/crm04.png",
+        "assets/images/crm-imgs/crm05.png",
+        "assets/images/crm-imgs/crm06.png",
+        "assets/images/crm-imgs/crm07.png",
+        "assets/images/crm-imgs/crm08.png",
+        "assets/images/crm-imgs/crm09.png"
+      ],
+      "Technologies": ["Angular", "CSS", "Bootstrap", "JQuery", "NodeJs", "PostgreSQL"]
+    }
+  ],
+  "OtherProjects.Title": "More projects",
+  "OtherProjects.Projects": [
+  
+    {
+      "Title": "Profile card",
+      "Description": "Simple one-page design that features a profile letter with basic information about a person.",
+      "ghLink": "https://github.com/andresjosehr/profile-card-component",
+      "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
+      "Technologies": [
+        "Angular",
+        "SASS",
+        "GIT"
+      ]
+    }
+  ],
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+  "Contact.Btn": "Say Hello"
+}
