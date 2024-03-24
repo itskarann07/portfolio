@@ -24,7 +24,7 @@ const millisecondsInMonth = 1000 * 60 * 60 * 24 * 30.44;
   const months = Math.floor(diffInMonths % 12)
 
 
-  const experience = (years.toString() + (years>1 ? ' years ' : ' year ' ))+ (months.toString() + (months>1 ? ' months ' : 'month ' ));
+  const experience = (years.toString() + (years>1 ? ' years ' : ' year ' ))+ (months.toString() + (months>1 ? ' months ' : ' month ' ));
 
 
     this.aboutme = [
