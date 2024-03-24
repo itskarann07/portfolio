@@ -46,11 +46,12 @@ export class HeaderComponent implements OnInit {
   }
 
   scroll(el:any) {
-    let ele = document.getElementById(el);
+    let ele:any = document.getElementById(el);
+
     if(ele) {
-      el.scrollIntoView({behavior: 'smooth'});
+      ele.scrollIntoView({behavior: 'smooth'});
     } else{
-      this.router.navigate(['/home']).then(()=> el.scrollIntoView({behavior: 'smooth'}) );
+      this.router.navigate(['/home']).then(()=> ele.scrollIntoView({behavior: 'smooth'}) );
     }
     this.responsiveMenuVisible=false;
   }
