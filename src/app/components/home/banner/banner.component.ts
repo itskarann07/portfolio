@@ -39,7 +39,7 @@ export class BannerComponent implements OnInit {
       const years = Math.floor(diffInMonths / 12);
       const months = Math.floor(diffInMonths % 12)
 
-    this.experience = (years.toString() + (years>1 ? ' years ' : ' year ' ))+ (months.toString() + (months>1 ? ' months ' : 'month ' ));
+    this.experience = (years.toString() + (years>1 ? ' years ' : ' year ' ))+ (months.toString() + (months>1 ? ' months ' : ' month ' ));
 
   }
   
