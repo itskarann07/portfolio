@@ -111,11 +111,11 @@ export class ProyectsComponent implements OnInit {
         "Description": "At TankhaPay, I led Angular development, enhancing efficiency by 20% through an intuitive interface. I automated payroll processes, ensuring precise salary calculations. Additionally, I integrated robust RESTful APIs using Node.js, facilitating seamless communication between front end and back end. My focus was on streamlining operations and elevating overall platform performance.",
         "date": "Nov 2023 - Present",
         "imgs": [
-          "assets/images/tankhapay-imgs/tankhapay_2.png",
-          "assets/images/tankhapay-imgs/tankhapay_3.png",
-          "assets/images/tankhapay-imgs/tankhapay_1.png",
-          "assets/images/tankhapay-imgs/tankhapay_4.png",
-          "assets/images/tankhapay-imgs/tankhapay_5.png"
+          "assets/images/tankhpay-imgs/tankhapay_2.png",
+          "assets/images/tankhpay-imgs/tankhapay_3.png",
+          "assets/images/tankhpay-imgs/tankhapay_1.png",
+          "assets/images/tankhpay-imgs/tankhapay_4.png",
+          "assets/images/tankhpay-imgs/tankhapay_5.png"
         ],
         "demoLink": "",
         "Technologies": ["Angular", "Bootstrap", "JQuery", "RxJS", "NodeJs","PostgreSQL"]
