@@ -57,13 +57,13 @@ export class HeaderComponent implements OnInit {
   }
 
   downloadCV(){
-      this.cvName = 'resume.pdf'
+      this.cvName = 'Karan_resume.pdf'
       
       let url = window.location.href;
 
       // Open a new window with the CV
-      let newurl = url + "/../assets/cv/resume.pdf";
-      newurl = newurl.replace('resume-ui/','');
+      let newurl = url + "/../assets/cv/Karan_resume.pdf";
+      newurl = newurl.replace('karan/','');
       window.open(newurl, "_blank");
 
   }
