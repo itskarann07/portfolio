@@ -32,7 +32,7 @@ export class JobsComponent implements OnInit {
       "Date": "March 2022 - Present",
       "Description": [
         "Spearheaded the frontend development efforts for the TankhaPay project using Angular, resulting in user-friendly and responsive interfaces that significantly improved the application's overall user experience.",
-        "Integrated frontend components, optimizing performance and maintainability, and directly contributed to the successful securing of <span class='underline'>$2.7 million</span> in funding from <span class='underline'>Japanese investors.</span>.",
+        "Integrated frontend components, optimizing performance and maintainability.",
         "Demonstrated expertise in designing, developing, and maintaining robust REST APIs utilizing Node.js and Express, while also contributing to the optimization of PostgreSQL functions to reduce server load, resulting in improved application performance and efficiency.",
         // "Creation and maintenance of Platforms Done in Angular, Node, PostgreSQL, RxJS, CSS with responsiveness, and user management and configuration of general parameters."
       ]
