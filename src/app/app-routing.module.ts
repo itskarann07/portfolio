@@ -4,10 +4,10 @@ import { HomeComponent } from './components/home/home.component';
 
 const routes: Routes = [
 
-  {path: 'resume-ui',component: HomeComponent},
+  {path: '',component: HomeComponent},
 
-  {path: '', pathMatch: 'full', redirectTo: 'resume-ui'},
-  {path: '**', pathMatch: 'full', redirectTo: 'resume-ui'},
+  {path: '', pathMatch: 'full', redirectTo: ''},
+  {path: '**', pathMatch: 'full', redirectTo: ''},
 
 ];
 
